@@ -445,8 +445,6 @@ GameObject:
   - component: {fileID: 1071242416}
   - component: {fileID: 1071242417}
   - component: {fileID: 1071242418}
-  - component: {fileID: 1071242420}
-  - component: {fileID: 1071242421}
   m_Layer: 0
   m_Name: Car
   m_TagString: Untagged
@@ -500,34 +498,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 113781918f41eb5f985277555b3a272b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  motorForce: 0.01
-  horizontalRate: 0.5
-  leftWheelCollider: {fileID: 1887410196}
-  rightWheelCollider: {fileID: 711440794}
---- !u!114 &1071242420
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1071242415}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a167689051f02c96681c4f4f0c2c8dc7, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1071242421
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1071242415}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b46cb4c333afc5250ae75aa2dd847520, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  maxAcceleration: 30
+  brakeAcceleration: 50
+  turnSensitivity: 1
+  maxSteerAngle: 30
+  wheels: []
 --- !u!1 &1098225947
 GameObject:
   m_ObjectHideFlags: 0
