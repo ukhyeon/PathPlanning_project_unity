@@ -106,6 +106,9 @@
     <Compile Include="Assets/Scripts/turn_over_project/AstarRobotController.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets/Scripts/Bug/bug0.txt" />
+  </ItemGroup>
+  <ItemGroup>
     <Reference Include="UnityEngine">
       <HintPath>/home/hyeonuk/Unity/Hub/Editor/2021.3.36f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
       <Private>False</Private>
