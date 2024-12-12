@@ -103,6 +103,7 @@
     <Compile Include="Assets/Scripts/turn_over_project/PIDController.cs" />
     <Compile Include="Assets/Scripts/RRTstar/PathRequestManager.cs" />
     <Compile Include="Assets/Scripts/turn_over_project/AstarRobotController.cs" />
+    <Compile Include="Assets/Scripts/Bug/Bug2Seeker.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/Scripts/Bug/bug1.txt" />

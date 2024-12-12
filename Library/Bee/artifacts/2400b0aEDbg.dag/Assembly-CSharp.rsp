@@ -370,6 +370,7 @@
 "Assets/Scripts/Astar/Unit.cs"
 "Assets/Scripts/Bug/Bug0Seeker.cs"
 "Assets/Scripts/Bug/Bug1Seeker.cs"
+"Assets/Scripts/Bug/Bug2Seeker.cs"
 "Assets/Scripts/Bug/Grid.cs"
 "Assets/Scripts/Bug/Grid_1.cs"
 "Assets/Scripts/Bug/Node.cs"
