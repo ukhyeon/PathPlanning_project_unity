@@ -96,7 +96,6 @@
     <Compile Include="Assets/Scripts/RRT/Pathfinding.cs" />
     <Compile Include="Assets/Scripts/Dijkstra/Grid.cs" />
     <Compile Include="Assets/Scripts/RRTstar/Unit.cs" />
-    <Compile Include="Assets/Scripts/Bug/Pathfinding.cs" />
     <Compile Include="Assets/Scripts/turn_over_project/Unit.cs" />
     <Compile Include="Assets/Scripts/turn_over_project/Robot_turnoverPIDController.cs" />
     <Compile Include="Assets/Scripts/2WDCar/AGVController.cs" />
@@ -106,6 +105,7 @@
     <Compile Include="Assets/Scripts/turn_over_project/AstarRobotController.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets/Scripts/Bug/bug1.txt" />
     <None Include="Assets/Scripts/Bug/bug0.txt" />
   </ItemGroup>
   <ItemGroup>

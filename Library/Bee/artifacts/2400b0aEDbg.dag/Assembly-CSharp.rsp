@@ -373,7 +373,6 @@
 "Assets/Scripts/Bug/Grid.cs"
 "Assets/Scripts/Bug/Grid_1.cs"
 "Assets/Scripts/Bug/Node.cs"
-"Assets/Scripts/Bug/Pathfinding.cs"
 "Assets/Scripts/Dijkstra/Grid.cs"
 "Assets/Scripts/Dijkstra/Heap.cs"
 "Assets/Scripts/Dijkstra/Node.cs"
