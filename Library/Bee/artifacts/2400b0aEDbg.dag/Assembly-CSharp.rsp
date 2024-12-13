@@ -372,7 +372,6 @@
 "Assets/Scripts/Bug/Bug1Seeker.cs"
 "Assets/Scripts/Bug/Bug2Seeker.cs"
 "Assets/Scripts/Bug/Grid.cs"
-"Assets/Scripts/Bug/Grid_1.cs"
 "Assets/Scripts/Bug/Node.cs"
 "Assets/Scripts/Dijkstra/Grid.cs"
 "Assets/Scripts/Dijkstra/Heap.cs"
